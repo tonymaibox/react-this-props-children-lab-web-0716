@@ -1,5 +1,6 @@
 const React = require('react');
 const { shallow } = require('enzyme');
+const ReactDOM = require('react-dom');
 
 const Invitation = require('../components/Invitation');
 const ThemedDecorations = require('../components/ThemedDecorations');
